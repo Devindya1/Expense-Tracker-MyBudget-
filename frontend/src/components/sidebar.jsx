@@ -1,4 +1,4 @@
-import "./SideBar.css";
+/*import "./SideBar.css";
 import { SideBarData } from "./SideBarData.jsx";
 import LogoutIcon from "@mui/icons-material/Logout";
 import SettingsIcon from "@mui/icons-material/Settings";
@@ -59,4 +59,4 @@ function SideBar() {
   );
 }
 
-export default SideBar;
+export default SideBar;*/
